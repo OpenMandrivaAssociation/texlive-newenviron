@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-newenviron
 Version:	1.0
-Release:	7
+Release:	8
 Summary:	Processing an environment's body
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newenviron
