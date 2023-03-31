@@ -1,6 +1,6 @@
 Name:		texlive-newenviron
 Version:	29331
-Release:	1
+Release:	2
 Summary:	Processing an environment's body
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newenviron
