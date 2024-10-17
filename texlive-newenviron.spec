@@ -3,7 +3,7 @@ Version:	29331
 Release:	2
 Summary:	Processing an environment's body
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newenviron
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newenviron
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newenviron.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newenviron.doc.r%{version}.tar.xz
